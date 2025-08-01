@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "investmento",
-    "slug": "investmento",
+    "name": "Investimento",
+    "slug": "Investimento",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "investmento",
+    "scheme": "investimento",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
